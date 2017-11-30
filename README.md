@@ -1,1 +1,1 @@
-# DInozaurs
+# tablice
